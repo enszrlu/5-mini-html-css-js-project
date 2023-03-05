@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Ubuntu';
+}
+.bg-image {
+    height: 100%;
+    width: 100%;
+    background: no-repeat center center;
+    background-image: url(../resources/img/Welder.jpg);
+    background-size: cover;
+    scale: 1.2;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+#percentage {
+    width: 200px;
+    height: 100px;
+    z-index: 9999;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
