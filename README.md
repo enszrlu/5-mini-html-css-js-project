@@ -1,6 +1,6 @@
 # 5 Mini Projects with HTML, CSS & JavaScript
 
-![Design preview for projects](./5-mini-project.jpg5-mini-project.jpg)
+![Design preview for projects](5-mini-project.jpg)
 
 ## About this repo
 
